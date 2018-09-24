@@ -1,0 +1,14 @@
+C:\Users\Martin\Documents\Programmierung\Hofuerbersicht\Hofuerbersicht.API\APIService\APIService\bin\Debug\netcoreapp2.1\APIService.deps.json
+C:\Users\Martin\Documents\Programmierung\Hofuerbersicht\Hofuerbersicht.API\APIService\APIService\bin\Debug\netcoreapp2.1\APIService.runtimeconfig.json
+C:\Users\Martin\Documents\Programmierung\Hofuerbersicht\Hofuerbersicht.API\APIService\APIService\bin\Debug\netcoreapp2.1\APIService.runtimeconfig.dev.json
+C:\Users\Martin\Documents\Programmierung\Hofuerbersicht\Hofuerbersicht.API\APIService\APIService\bin\Debug\netcoreapp2.1\APIService.dll
+C:\Users\Martin\Documents\Programmierung\Hofuerbersicht\Hofuerbersicht.API\APIService\APIService\obj\Debug\netcoreapp2.1\APIService.csprojAssemblyReference.cache
+C:\Users\Martin\Documents\Programmierung\Hofuerbersicht\Hofuerbersicht.API\APIService\APIService\obj\Debug\netcoreapp2.1\APIService.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\Programmierung\Hofuerbersicht\Hofuerbersicht.API\APIService\APIService\obj\Debug\netcoreapp2.1\APIService.RazorAssemblyInfo.cache
+C:\Users\Martin\Documents\Programmierung\Hofuerbersicht\Hofuerbersicht.API\APIService\APIService\obj\Debug\netcoreapp2.1\APIService.RazorAssemblyInfo.cs
+C:\Users\Martin\Documents\Programmierung\Hofuerbersicht\Hofuerbersicht.API\APIService\APIService\obj\Debug\netcoreapp2.1\APIService.AssemblyInfoInputs.cache
+C:\Users\Martin\Documents\Programmierung\Hofuerbersicht\Hofuerbersicht.API\APIService\APIService\obj\Debug\netcoreapp2.1\APIService.AssemblyInfo.cs
+C:\Users\Martin\Documents\Programmierung\Hofuerbersicht\Hofuerbersicht.API\APIService\APIService\obj\Debug\netcoreapp2.1\APIService.RazorTargetAssemblyInfo.cache
+C:\Users\Martin\Documents\Programmierung\Hofuerbersicht\Hofuerbersicht.API\APIService\APIService\bin\Debug\netcoreapp2.1\APIService.pdb
+C:\Users\Martin\Documents\Programmierung\Hofuerbersicht\Hofuerbersicht.API\APIService\APIService\obj\Debug\netcoreapp2.1\APIService.dll
+C:\Users\Martin\Documents\Programmierung\Hofuerbersicht\Hofuerbersicht.API\APIService\APIService\obj\Debug\netcoreapp2.1\APIService.pdb
